@@ -151,7 +151,7 @@ Technology-driven solution focused on sustainability and environmental impact.
 | ♿ Accessibility | BrailleConnect |
 | 🔐 Information Integrity | TraceNet |
 | 📚 Education & Career Growth | Unified Skill Development Hub |
-| 🌱 Sustainability | OptiMeal Blitz |
+| 🌱 Sustainability | OptiMeal |
 
 ---
 
