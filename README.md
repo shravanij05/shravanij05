@@ -102,7 +102,7 @@ Python • SQLite • Dash
 
 ---
 
-# 🏆 Achievement Showcase
+# 🏆 Achievements
 
 <table>
 <tr>
@@ -155,7 +155,7 @@ Technology-driven solution focused on sustainability and environmental impact.
 
 ---
 
-# 🛠️ Tech Arsenal
+# 🛠️ Tech Stack
 
 ### 💻 Languages
 
