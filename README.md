@@ -4,7 +4,7 @@
 
 🎓 Third-Year Information Technology Student
 
-🔤 Currently building **BrailleConnect** — a real-time Braille recognition system that converts Braille into text and voice
+🔤 Currently building **LinkSys** — a digital identity intelligence platform
 
 🔐 Currently learning **API Security** and secure application development
 
